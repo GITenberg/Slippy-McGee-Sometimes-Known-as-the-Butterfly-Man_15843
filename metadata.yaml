@@ -1,0 +1,30 @@
+_repo: Slippy-McGee-Sometimes-Known-as-the-Butterfly-Man_15843
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oemler, Marie Conway
+    birthdate: 1879
+    deathdate: 1932
+    gutenberg_agent_id: '4443'
+    url: http://www.gutenberg.org/2009/agents/4443
+description: Cover -- Contents.
+gutenberg_issued: '2005-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Priests -- Fiction'
+- !lcc 'PS'
+- !lcsh 'South Carolina -- Fiction'
+- !lcsh 'Amputees -- Fiction'
+- !lcsh 'Entomologists -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+title: Slippy McGee, Sometimes Known as the Butterfly Man
+url: http://www.gutenberg.org/ebooks/15843
